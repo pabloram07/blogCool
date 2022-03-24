@@ -1,1 +1,3 @@
 Este es el curso de git y github de platzi
+
+Nuevo texto ingresado
