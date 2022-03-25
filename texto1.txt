@@ -3,3 +3,5 @@ Este es el curso de git y github de platzi
 Iniciando historia de vida.
 
 Estudio carrera universitaria
+
+Estudia una maestría
