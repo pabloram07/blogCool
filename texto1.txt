@@ -1,3 +1,5 @@
 Este es el curso de git y github de platzi
 
-Nuevo texto ingresado
+Iniciando historia de vida.
+
+Estudio carrera universitaria
