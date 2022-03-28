@@ -9,3 +9,5 @@ Estudia una maestría
 Estudia online por platzi
 
 Termino el curso de prework de platzi
+
+Termino el curso de linea de comandos
