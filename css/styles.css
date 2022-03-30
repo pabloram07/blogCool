@@ -3,3 +3,9 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: blue;
 }
+
+#container-title{
+    border: 1px solid gray;
+    width: 70%;
+    margin: 0 auto;
+}
