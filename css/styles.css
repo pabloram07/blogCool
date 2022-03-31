@@ -9,3 +9,17 @@ body{
     width: 70%;
     margin: 0 auto;
 }
+
+#container-header{
+    text-align: left;
+    border: 1px solid gray;
+    margin: 0 auto;
+    width: 70%;
+    background-color: blue;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    font-size: 35px;
+    box-shadow: 4px 7px 12px 0px rgba(0,0,0,0.51);
+}
