@@ -23,3 +23,10 @@ body{
     font-size: 35px;
     box-shadow: 4px 7px 12px 0px rgba(0,0,0,0.51);
 }
+
+#footer{
+    text-align: center;
+    background-color: lightgreen;
+    padding: 20px 10px;
+    color: black;
+}
